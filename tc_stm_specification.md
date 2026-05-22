@@ -290,6 +290,7 @@ Disclosure: The xAI Grok chat-bot provided valuable help with refining and valid
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0     | 22-May-2026  | Initial public release |
+| 1.0     | 22-May-2026  | Removed HTML style that github did not like. |
 
 
 ### A.1 Change Log
