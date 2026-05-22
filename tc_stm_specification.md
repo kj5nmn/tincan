@@ -1,12 +1,3 @@
-<style>
-pre {
-  font-size: 11px;
-}
-table {
-  font-size: 11px
-}
-</style>
-
 ## Tin\~Can Simple Tone Modulation (TC\~STM)<br>Technical Specification & Protocol 🥫📻
 
 **Public Domain Dedication**<br>
