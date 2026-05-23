@@ -252,8 +252,6 @@ Example CRC-16-CCITT implementation in Python:
 
 - The United States Federal Communications Commission (FCC) regulation [§97.309(a)(4)](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-97/subpart-D/section-97.309) for digitally modulated emissions used in the Amateur Radio Service requires that detailed specifications describing data transmissions be publicly documented prior to on-air transmissions. Similar rules exist in most other jurisdictions. Failure to publicly document a protocol prior to on-air use risks having the transmissions considered 'encrypted', which is strictly prohibited.
 
-- See [Payload Protocol Developer's Guide](***add URL here***) for recommendattions for designing TC~STM compatible payload protocols.
-
 #### 3.2 Error Detection and Correction
 TC\~STM Protocol has no built-in error detection/correction or payload content validation. Payload data validation, error detection/correction, and ARQ functions should be implemented as part of a payload protocol as needed.
 
